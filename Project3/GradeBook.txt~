@@ -1,0 +1,49 @@
+	Sample Data Run
+
+Input			Output
+99.9			A
+89.3			B
+72.3			C
+69.4			D
+53.9			F
+40			F
+0.5			F
+
+
+     ----jGRASP exec: java GradeBook
+    Please enter a score (-1 ends input session): 99.9
+    The score of 99.9 is the grade letter of A.
+    
+    Please enter a score (-1 ends input session): 89.3
+    The score of 89.3 is the grade letter of B.
+    
+    Please enter a score (-1 ends input session): 72.3
+    The score of 72.3 is the grade letter of C.
+    
+    Please enter a score (-1 ends input session): 69.4
+    The score of 69.4 is the grade letter of D.
+    
+    Please enter a score (-1 ends input session): 53.9
+    The score of 53.9 is the grade letter of F.
+    
+    Please enter a score (-1 ends input session): 40
+    The score of 40.0 is the grade letter of F.
+    
+    Please enter a score (-1 ends input session): 0.5
+    The score of 0.5 is the grade letter of F.
+    
+    Please enter a score (-1 ends input session): -1
+    ------------------------------------------------------------
+    Total number of A's: 1
+    Total number of B's: 1
+    Total number of C's: 1
+    Total number of D's: 1
+    Total number of F's: 3
+    Total number of scores inputted: 7
+
+    Average class score: 60.76
+    Average class grade: D
+    ------------------------------------------------------------
+    
+     ----jGRASP: operation complete.
+    

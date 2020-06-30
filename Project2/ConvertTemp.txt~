@@ -1,0 +1,41 @@
+			Data Test Runs
+
+Input(Celsius)		Output(Fahrenheit)
+0						32.0
+32.5					90.5
+102.8					217.04
+-15.6					3.9200000000000017
+78.15					172.67000000000002
+
+
+    
+     ----jGRASP exec: java ConvertTemp
+    Please enter degrees in Celsius: 0
+    Your input of 0.0 degrees Celsius is equal to 32.0 degrees Fahrenheit.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java ConvertTemp
+    Please enter degrees in Celsius: 32.5
+    Your input of 32.5 degrees Celsius is equal to 90.5 degrees Fahrenheit.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java ConvertTemp
+    Please enter degrees in Celsius: 102.8
+    Your input of 102.8 degrees Celsius is equal to 217.04 degrees Fahrenheit.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java ConvertTemp
+    Please enter degrees in Celsius: -15.6
+    Your input of -15.6 degrees Celsius is equal to 3.9200000000000017 degrees Fahrenheit.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java ConvertTemp
+    Please enter degrees in Celsius: 78.15
+    Your input of 78.15 degrees Celsius is equal to 172.67000000000002 degrees Fahrenheit.
+    
+     ----jGRASP: operation complete.
+    

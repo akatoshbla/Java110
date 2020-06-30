@@ -1,0 +1,47 @@
+			Data Test Runs
+
+Input(Score)				Output(Grade)
+99.9					A
+83				 	B
+70				 	C
+68		        	        D			
+59		           	        F	
+10                     			F
+
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 99.9
+    Your score of 99.9 corresponds to the letter grade of A.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 83
+    Your score of 83.0 corresponds to the letter grade of B.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 70
+    Your score of 70.0 corresponds to the letter grade of C.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 68
+    Your score of 68.0 corresponds to the letter grade of D.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 59
+    Your score of 59.0 corresponds to the letter grade of F.
+    
+     ----jGRASP: operation complete.
+    
+     ----jGRASP exec: java CalculateGrade
+    Please enter your score: 10
+    Your score of 10.0 corresponds to the letter grade of F.
+    
+     ----jGRASP: operation complete.
+    
