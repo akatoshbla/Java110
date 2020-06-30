@@ -1,0 +1,17 @@
+Data Sample:
+
+Team name = Oilers
+Number of wins = 67
+Number of goals = 130
+
+Sample Output:
+   
+     ----jGRASP exec: java Hockey
+    Please enter a NHL team name: Oilers
+    Please enter the number of wins that team won: 67
+    Please enter the number of goals that team scored: 130
+    
+    The NHL team: Oilers won 67 games and scored 130 goals.
+    
+     ----jGRASP: operation complete.
+    

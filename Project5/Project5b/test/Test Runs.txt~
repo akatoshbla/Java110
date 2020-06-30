@@ -1,0 +1,22 @@
+    
+     ----jGRASP exec: java Driver
+    Please enter the title of the book: Of Mice and Men
+    Please enter the author of the book: John Doe
+    Please enter the number of pages in the book: 346
+    
+    Please enter a person's name: David Kopp
+    Please enter the person's height in inches: 68
+    Please enter the person's Weight in pounds: 225
+    
+    Please enter a NHL team name: Flames
+    Please enter the number of wins that team won: 56
+    Please enter the number of losses that team loss: 35
+    
+    The Book's Title is: Of Mice and Men writen by John Doe, and has 346 pages.
+    
+    The person's name is: David Kopp they are 68.0 inches tall and weigh 225.0 pounds.
+    
+    The NHL team: Flames won 56 games and scored 35 goals.
+    
+     ----jGRASP: operation complete.
+    

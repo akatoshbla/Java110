@@ -1,0 +1,17 @@
+Sample Data:
+
+Person's name = John Doe
+Person's height = 79
+Person's weight = 205
+
+Sample Output:
+    
+     ----jGRASP exec: java Person
+    Please enter a person's name: John DOe
+    Please enter the person's height in inches: 79
+    Please enter the person's Weight in pounds: 205
+    
+    The person's name is: John DOe they are 79.0 inches tall and weigh 205.0 pounds.
+    
+     ----jGRASP: operation complete.
+    

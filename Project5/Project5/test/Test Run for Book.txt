@@ -1,0 +1,17 @@
+Data Sample:
+
+Title of book = Elminster the Making of a Mage
+Author = Dungeon Master
+Pages = 412
+
+Output Sample:
+    
+     ----jGRASP exec: java Book
+    Please enter the title of the book: Elminster the Making of a Mage
+    Please enter the author of the book: Dungeon Master
+    Please enter the number of pages in the book: 412
+    
+    The Book's Title is: Elminster the Making of a Mage writen by Dungeon Master and has 412 pages.
+    
+     ----jGRASP: operation complete.
+    
