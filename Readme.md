@@ -11,3 +11,5 @@ Project 5 - This program is a class called Book with 3 global variables, 2 const
 Project 6 - This program creates different shapes and sets the parameters of each object.
 
 Mid Term - This program converts degrees Celsius to Fahrenheit
+
+Final - This is a program creates an object called CSUNStudent that is an extention of an object called Human with some information and prints out an introduction to console
